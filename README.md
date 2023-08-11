@@ -1,6 +1,5 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 BARATHFOLD 
 ```
-⬆️ (Replace above with your app's name)
 ```
 
 Description of the app ...
